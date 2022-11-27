@@ -1,0 +1,24 @@
+﻿@model MVC.SchoolApp.ViewModels.Models.SubjectsViewModel
+@{ ViewBag.Title = "Subject"; }
+<p class="match-admin-panel">
+    <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+        Admin Panel
+    </a>
+</p>
+
+
+<div class="collapse match-admin-panel" id="collapseExample">
+    <div class="card card-doby">
+        <span>
+            <a asp-controller="Home" asp-action="AddSubject" class="btn btn-primary">Add Subject</a>
+
+        </span>
+    </div>
+</div>
+
+<div class="subject">
+    @foreach (var item in @Model.Subjects)
+    {
+        <partial name="~/Views/Shared/_Subject.cshtml" for="@item" />
+    }
+</div>

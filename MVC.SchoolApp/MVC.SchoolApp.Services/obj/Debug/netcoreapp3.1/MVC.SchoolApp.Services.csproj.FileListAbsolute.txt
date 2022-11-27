@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DataAccess.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.ViewModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.Services.deps.json
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.Services.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.Services.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DataAccess.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\bin\Debug\netcoreapp3.1\MVC.SchoolApp.ViewModels.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.csproj.CopyComplete
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.Services\obj\Debug\netcoreapp3.1\MVC.SchoolApp.Services.pdb

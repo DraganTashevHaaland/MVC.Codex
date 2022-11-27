@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.deps.json
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\bin\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DomainModels\obj\Debug\netcoreapp3.1\MVC.SchoolApp.DomainModels.pdb

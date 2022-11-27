@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MVC.SchoolApp.ViewModels/1.0.0": {
+        "runtime": {
+          "MVC.SchoolApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC.SchoolApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

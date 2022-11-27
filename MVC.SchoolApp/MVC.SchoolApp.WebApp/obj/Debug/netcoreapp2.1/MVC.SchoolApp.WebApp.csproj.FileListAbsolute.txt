@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp2.1\MVC.SchoolApp.WebApp.RazorAssemblyInfo.cs

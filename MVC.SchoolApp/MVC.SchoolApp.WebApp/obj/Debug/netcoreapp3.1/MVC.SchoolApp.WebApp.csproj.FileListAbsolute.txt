@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.TagHelpers.input.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.TagHelpers.output.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.WebApp\obj\Debug\netcoreapp3.1\MVC.SchoolApp.WebApp.RazorCoreGenerate.cache

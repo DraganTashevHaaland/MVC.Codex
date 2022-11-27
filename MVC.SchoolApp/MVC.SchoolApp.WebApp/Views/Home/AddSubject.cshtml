@@ -1,0 +1,21 @@
+﻿@model MVC.SchoolApp.ViewModels.Models.AddSubjectViewModel 
+
+@{ViewBag.Title = "Add Subject"}
+
+<h1>Add Subject</h1> 
+
+<form asp-controller="Home" asp-action="AddSubject" method="post">
+
+    <label asp-for="SubjectName"></label>
+    <input asp-for="SubjectName" /> <br />
+
+    <label asp-for="Credits"></label>
+    <input asp-for="Credits" /> <br />
+
+   
+    <br />
+    <br />
+
+    <button type="submit" class="btn btn-outline-success">Add Subject</button>
+
+</form>

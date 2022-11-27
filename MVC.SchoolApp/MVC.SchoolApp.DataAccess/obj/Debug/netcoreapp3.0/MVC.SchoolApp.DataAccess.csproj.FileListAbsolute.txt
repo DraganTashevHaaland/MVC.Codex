@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\bin\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.deps.json
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\bin\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\bin\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\bin\Debug\netcoreapp3.0\MVC.SchoolApp.DomainModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\bin\Debug\netcoreapp3.0\MVC.SchoolApp.DomainModels.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.csproj.CopyComplete
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.DataAccess\obj\Debug\netcoreapp3.0\MVC.SchoolApp.DataAccess.pdb

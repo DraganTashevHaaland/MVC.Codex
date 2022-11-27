@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\bin\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.deps.json
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\bin\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\bin\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.pdb
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.AssemblyInfo.cs
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.dll
+C:\Users\user\Desktop\CodexTask\MVC.SchoolApp\MVC.SchoolApp.ViewModels\obj\Debug\netcoreapp3.0\MVC.SchoolApp.ViewModels.pdb
